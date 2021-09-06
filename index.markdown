@@ -4,4 +4,4 @@ title: Home
 permalink: /
 ---
 
-### Looking for my CV? [Here you go](cv.pdf)
+Looking for my CV? [Here you go](cv.pdf)
