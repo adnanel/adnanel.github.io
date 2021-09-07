@@ -49,3 +49,12 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+projects.docs:
+  - title: Untitled Mistery Game
+    url: detective.html
+  - title: Endless Sea
+    url: esea.html
+  - title: Orcs And Humans
+    url: oah.html
