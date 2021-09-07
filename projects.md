@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Personal Projects"
+permalink: /projects
 ---
 
 Although I develop software full time, my main hobby is _even more development_. I always have at least 1 random
