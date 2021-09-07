@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title:  "Personal Projects"
-date:   2021-09-07 11:26:00 +0200
 ---
 
 Although I develop software full time, my main hobby is _even more development_. I always have at least 1 random
